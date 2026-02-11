@@ -1,0 +1,12 @@
+# Package files
+*.deb
+
+# Logs
+*.log
+
+# Elastic data
+data/
+logs/
+
+# Environment files
+.env
